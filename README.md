@@ -10,30 +10,6 @@ A real-time face recognition system with advanced **anti-spoofing features** to 
 
 ---
 
-## Table of Contents
-1. [Features](#features)
-2. [Working Procedure](#working-procedure)
-3. [Installation](#installation)
-4. [Usage](#usage)
-5. [Project Structure](#project-structure)
-6. [Technologies Used](#technologies-used)
-7. [Troubleshooting](#troubleshooting)
-8. [Contributing](#contributing)
-9. [License](#license)
-10. [Contact](#contact)
-
----
-
-## Features
-✅ **Real-Time Face Detection**  
-✅ **Liveness Checks** (Blink Detection + Head Movement + Texture Analysis)  
-✅ **Attendance Logging** (CSV files with timestamps)  
-✅ **User Registration** via GUI  
-✅ **Camera Configuration** (IP/USB camera selection)  
-✅ **Dark/Light Mode** interface  
-
----
-
 ## Working Procedure
 ### 1. Face Detection & Landmark Tracking
 - Uses **dlib's frontal face detector** to find faces in frames
